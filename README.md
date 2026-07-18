@@ -81,12 +81,14 @@ Key analyses performed:
 
 ## Project Structure
 
+```text
 Ola-Booking-Analysis
 │
 ├── Dataset
 ├── SQL Queries
 ├── Power BI Dashboard.pbix
 └── README.md
+```
 
 ## Skills Demonstrated
 
