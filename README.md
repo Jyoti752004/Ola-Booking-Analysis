@@ -81,7 +81,7 @@ Key analyses performed:
 
 ## Project Structure
 
-Netflix-Content-Analysis/
+Ola-Booking-Analysis/
 │
 ├── Dataset/
 ├── SQL Queries/
